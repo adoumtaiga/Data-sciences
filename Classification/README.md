@@ -1,27 +1,8 @@
 
-### Titanic Survival Prediction
+# Classification Repository
 
-![Titanic prediction](https://miro.medium.com/v2/resize:fit:1200/0*awbekd-RK9TrISOn)
+This subrepository contains all the data science projects that falls under the Classification category, that can either be a binary or categorical classification. Each folder include one unique project, in which you can find the description of the project, the method used to solve the problem, the model implementation and some references for further lectures.
 
-Lets start by importing the different python libraries we will need for the analysis and classification model.
+Liste of Classification projects:
 
-```python
-# EDA libraries
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-# Machine learning libraries
-from sklearn.model_selection import cross_val_score
-from sklearn.ensemble import RandomForestClassifier, GradientBoostingClasifier
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.linear_model import LogistiqueRegression
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.neural_network import MLPClassifier
-```
-
-### Aqcuering the dataset
-
-
-
+1. Titanic Prediction
