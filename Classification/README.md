@@ -5,4 +5,4 @@ This subrepository contains all the data science projects that falls under the C
 
 Liste of Classification projects:
 
-1. Titanic Prediction
+1. [Titanic Survival Prediction](/readme.md)
