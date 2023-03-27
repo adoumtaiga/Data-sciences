@@ -19,4 +19,9 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.linear_model import LogistiqueRegression
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.neural_network import MLPClassifier
+```
+
+### Aqcuering the dataset
+
+
 
