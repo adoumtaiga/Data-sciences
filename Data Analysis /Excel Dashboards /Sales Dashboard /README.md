@@ -39,9 +39,3 @@ The dataset includes:
 ## Tools Used
 - **Microsoft Excel** for data visualization and dashboard creation.
 
-## Contributing
-If you’d like to contribute or improve the dashboard, feel free to fork the repository and submit a pull request.
-
-## License
-This project is open-source and available for use under the MIT License.
-
